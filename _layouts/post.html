@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+{% assign app = site.data.aplikasi[page.aplikasi] %}
+
+<h1>{{app.title}}</h1>
+
+<h3 class="text-muted">{{app.subtitle}}</h3>
+
+<hr>
+
+<div class="row" style="margin-bottom: 3em;">
+
+{% if app.menus %}
+
+	<div class="col-md-5">
+		<ul class="list-group">
+		{% for m in app.menus %}
+			<a href="
+                {% if m[0] == "dasar" %}
+                    {{site.url}}
+                {% else %}
+                    {{site.url}}/{{m[0]}}
+                {% endif %}
+            " class="list-group-item list-group-item-action
+                    {% if m[0] == "dasar" and page.is-home %}
+                        active
+                    {% endif %}
+                    {% if m[0] == page.permalink %}
+                        active
+                    {% endif %}
+                ">
+                {% if m[0] == "dasar" %}
+                    Informasi Dasar
+                {% else %}
+                    {{m[1]}}
+                {% endif %}
+			</a>
+		{% endfor %}
+		</ul>
+	</div>
+	<div class="col-md-7">
+        <h3>{{app.menus[page.permalink]}}</h3>
+        {% unless page.is-home %}
+            <hr>
+        {% endunless %}
+		{{ content }}
+	</div>
+</div>
+
+{% else %}
+
+	<div class="col-md-7">
+		{{ content }}	
+	</div>
+
+{% endif %}
+
+</div>
+

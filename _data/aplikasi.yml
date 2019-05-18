@@ -1,0 +1,28 @@
+dasar:
+  title: "Wiki Krisna"
+  subtitle: "Dibuat secara <a href='https://github.com/usermanualkrisna/usermanualkrisna.github.io'>urun daya</a>." 
+  menus:
+    dasar: "Informasi Dasar"
+    kenapa-krisna-itu-penting: "1. Kenapa Krisna itu Penting?"
+    apa-ujung-akhirnya: "2. Apa Ujung Akhirnya?"
+    apa-itu-kl-dan-pemda: "3. Apa itu K/L dan Pemda?"
+    apa-itu-rpjmn-dan-rkp: "4. Apa itu RPJMN & RKP?"
+    login-registrasi: "Cara Registrasi/Login"
+renjakl:
+  title: "RenjaKL"
+  subtitle: "Rencana Kerja Kementerian/Lembaga"
+  menus:
+    apa-itu-renjakl: "Apa Itu RenjaKL?"
+    cara-kl-mengelola-visi-misi-renjakl: "Cara K/L Mengelola Visi Misi" 
+    cara-kl-mengelola-sasaran-strategis-renjakl: "Cara K/L Mengelola Sasaran Strategis"
+    cara-kl-mengelola-program-renjakl: "Cara K/L Mengelola Program"
+    cara-kl-mengelola-kegiatan-renjakl: "Cara K/L Mengelola Kegiatan"
+    cara-mitra-kl-di-bappenas-menelaah-renjakl: "Cara Mitra K/L di Bappenas Menelaah"
+    cara-mitra-kl-di-kemenkeu-menelaah-renjakl: "Cara Mitra K/L di Kemenkeu Menelaah"
+renstrakl:
+  title: "RenstraKL"
+  subtitle: "Rencana Kerja Strategis Kementerian/Lembaga"
+  menus:
+    apa-itu-renstrakl: "Apa Itu RenstraKL?"
+    bagaimana-proses-bisnis-renstrakl: "Bagaimana Proses Bisnis & Tahapan Pembuatan RenstraKL?"
+    cara-mengelola-visi-misi-tujuan-renstrakl: "Cara K/L Mengelola Visi, Misi, dan Tujuan"
