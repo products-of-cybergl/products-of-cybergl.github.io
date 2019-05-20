@@ -19,6 +19,7 @@ renjakl:
     cara-kl-mengelola-kegiatan-renjakl: "Cara K/L Mengelola Kegiatan"
     cara-mitra-kl-di-bappenas-menelaah-renjakl: "Cara Mitra K/L di Bappenas Menelaah"
     cara-mitra-kl-di-kemenkeu-menelaah-renjakl: "Cara Mitra K/L di Kemenkeu Menelaah"
+    cara-mengelola-renja-satker-di-renjakl: "Cara Mengelola Renja Satker di Renja K/L"
 renstrakl:
   title: "RenstraKL"
   subtitle: "Rencana Kerja Strategis Kementerian/Lembaga"
@@ -26,3 +27,27 @@ renstrakl:
     apa-itu-renstrakl: "Apa Itu RenstraKL?"
     bagaimana-proses-bisnis-renstrakl: "Bagaimana Proses Bisnis & Tahapan Pembuatan RenstraKL?"
     cara-mengelola-visi-misi-tujuan-renstrakl: "Cara K/L Mengelola Visi, Misi, dan Tujuan"
+rkp:
+  title: "RKP"
+  subtitle: "Rencana Kerja Pemerintah"
+  menus:
+    apa-itu-rkp: "Apa Itu RKP?"
+    cara-kelola-pn-rkp: "Cara Mengelola Prioritas Nasional"
+    cara-kelola-pp-rkp: "Cara Mengelola Program Prioritas"
+    cara-kelola-kp-rkp: "Cara Mengelola Kegiatan Prioritas, Proyek Prioritas Nasional, dan Usulan Indikasi Output"
+    cara-direktur-menyetujui-usulan-indikasi-output-rkp: "Cara Direktur Menyetujui Usulan Indikasi Output"
+selaras:
+  title: "Selaras"
+  subtitle: "Rapat Koordinasi Teknis (Rakortek) & Musyawarah Rencana Pembangunan (Musrenbang)"
+  menus:
+    apa-itu-selaras: "Apa Itu Selaras?"
+    cara-mengelola-alokasi-pemda-di-selaras: "Cara Mengelola Alokasi Pemda di Selaras"
+    cara-kl-menelaah-selaras: "Cara K/L Melakukan Penyetujuan"
+    cara-berdiskusi-di-musrenbang-online: "Cara Berdiskusi di Musrenbang Online"
+dak-fisik:
+  title: "DAK Fisik"
+  subtitle: "Dana Alokasi Khusus - Fisik"
+  menus:
+    apa-itu-dak-fisik: "Apa Itu DAK Fisik?"
+    cara-daerah-mengusulkan-kegiatan-dak-fisik: "Cara Pemda Mengusulkan Kegiatan"
+    cara-bappeda-dan-opd-memproses-usulan-daerah: "Cara Bappeda dan OPD Memproses Usulan Daerah"

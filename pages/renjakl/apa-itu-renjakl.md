@@ -6,7 +6,7 @@ permalink: apa-itu-renjakl
 
 Renja K/L adalah sebuah dokumen yang menjelaskan Rencana Kerja K/L selama satu tahun ke depan.
 
-Renja K/L dibuat K/L, mengacu kepada RPJMN & RKP, dan disetujui oleh Bappenas serta Kemenkeu.
+Renja K/L dibuat K/L, mengacu kepada RPJMN (lewat Renstra K/L) lima tahunan & RKP tahunan.
 
 Renja K/L diacu oleh RKA K/L.
 
