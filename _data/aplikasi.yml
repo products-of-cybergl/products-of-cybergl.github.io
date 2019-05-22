@@ -38,7 +38,7 @@ rkp:
     cara-direktur-menyetujui-usulan-indikasi-output-rkp: "Cara Direktur Menyetujui Usulan Indikasi Output"
 selaras:
   title: "Selaras"
-  subtitle: "Rapat Koordinasi Teknis (Rakortek) & Musyawarah Rencana Pembangunan (Musrenbang)"
+  subtitle: "Menyelaraskan Pusat-Daerah di Rapat Koordinasi Teknis (Rakortek) & Musyawarah Rencana Pembangunan Nasional (Musrenbangnas)"
   menus:
     apa-itu-selaras: "Apa Itu Selaras?"
     cara-mengelola-alokasi-pemda-di-selaras: "Cara Mengelola Alokasi Pemda di Selaras"
@@ -50,7 +50,10 @@ dak-fisik:
   subtitle: "Dana Alokasi Khusus - Fisik"
   menus:
     apa-itu-dak-fisik: "Apa Itu DAK Fisik?"
-    cara-daerah-mengusulkan-kegiatan-dak-fisik: "Cara Pemda Mengusulkan Kegiatan"
-    cara-bappeda-dan-opd-memproses-usulan-daerah: "Cara Bappeda dan OPD Memproses Usulan Daerah"
-    cara-menyetujui-struktur-data-kegiatan-yang-bisa-diusulkan: "Cara Menyetujui Struktur Data Kegaiatan yang Bisa Diusulkan"
-    
+    cara-mengelola-pengguna-dan-hak-akses-nya-di-dak-fisik: "Pengelolaan Pengguna dan Hak Aksesnya"
+    cara-daerah-mengusulkan-kegiatan-dak-fisik: "1. Cara Daerah (Bappeda Kab/Kota & OPD Prov/Kab/Kota) Mengusulkan Kegiatan"
+    cara-bappedaprov-dan-kemendagri-memverifikasi-usulan-di-dak-fisik: "2. Cara Bappeda Prov & Kemendagri Memverifikasi Usulan Daerah"
+    cara-pusat-menelaah-usulan-daerah-di-dak-fisik: "3. Cara Pusat (K/L & Bappenas) Menilai dan Menyetujui Usulan Daerah"
+    cara-sinkronisasi-usulan-daerah-dengan-penilaian-pusat-di-dak-fisik: "4. Cara Sinkronisasi Usulan Daerah Dengan Penilaian Pusat (K/L, Bappenas & Kemenkeu)"
+    cara-menyaring-dan-menyesuaikan-usulan-setelah-turunnya-pagu-alokasi-di-dak-fisik: "5. Cara Menyaring & Menyesuaikan Usulan Setelah Turunnya Pagu Alokasi"
+    cara-menyusun-rk-di-dak-fisik: "6. Cara Menyusun RK di DAK Fisik"

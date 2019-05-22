@@ -77,7 +77,7 @@ Seperti yang terlihat, pemda juga punya keterkaitan dengan K/L. Dinas pendidikan
 
 ##### 2.1 Jenis-jenis bantuan pusat ke APBD pemda
 
-Tidak seperti K/L yang didanai penuh oleh APBN, pemda mengelola sendiri dana mereka. Di sisi lain, pendapatan asli daerah bervariasi. Maka, selain untuk meningkatkan kesejahteraan rakyat, bantuan pusat ke daerah juga digunakan untuk mengurangi ketimpangan antar daerah. 
+Tidak seperti K/L yang didanai penuh oleh APBN, pemda bisa mendanai diri mereka sendiri. Di sisi lain, pendapatan asli daerah bervariasi. Maka, selain untuk meningkatkan kesejahteraan rakyat, bantuan pusat ke daerah juga digunakan untuk mengurangi ketimpangan antar daerah. 
 
 Ada banyak jenis dana bantuan pemerintah pusat. Berikut macam-macamnya, sebagaimana yang tercantum di APBN 2019:
 

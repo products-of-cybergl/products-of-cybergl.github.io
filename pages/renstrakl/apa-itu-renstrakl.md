@@ -34,4 +34,4 @@ Berikut informasi inti di Renstra K/L (strategi dan turunan-turunannya)
 
 ##### Bagaimana Krisna membantu pengolahan Renstra K/L?
 
-Krisna membantu dalam sisi kolaborasi penulisan dan penelaahan antara K/L dengan Bappenas (cmiiw).
+Krisna membantu dalam sisi kolaborasi penulisan dan penelaahan antara K/L dengan Bappenas.
