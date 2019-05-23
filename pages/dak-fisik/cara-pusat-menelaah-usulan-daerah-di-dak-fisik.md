@@ -67,7 +67,7 @@ Setelah login, silahkan akses menu 'Usulan DAK'
 
 #### Sebagai Mitra K/L Melakukan Approval di Level Detail Rincian
 
-Untuk direktorat di Bappenas (mitra K/L), cara *drilldown* persis sama dengan K/L. Pembedanya adalah tombol checklist yang ditekan saat halaman level detail rincian.
+Untuk direktorat di Bappenas (mitra K/L), cara *drilldown* persis sama dengan K/L. Pembedanya adalah tombol checklist yang ditekan saat halaman di level detail rincian.
 
 {% include image.html
     img="https://user-images.githubusercontent.com/2253841/58211671-d94d8700-7d16-11e9-976d-c73f7e83f97c.png"

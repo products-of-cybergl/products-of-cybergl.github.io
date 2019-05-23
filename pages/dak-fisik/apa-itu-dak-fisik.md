@@ -41,3 +41,9 @@ Terihat pemetaan waktu dari langkah-langkah DAK di atas:
 4. Sinkronisasi Usulan Daerah Dengan Penilaian Pusat (K/L, Bappenas & Kemenkeu) **[Agustus - September 2019]**
 5. Menyaring & Menyesuaikan Usulan Setelah Turunnya Pagu Alokasi **[November/Desember 2019]**
 6. Menyusun RK di DAK Fisik **[November/Desember 2019]**
+
+#### Apa yang baru di DAK 2020?
+
+1. Semua input Detail Rincian usulan hanya bisa memilih dari data referensi, tidak lagi bisa mengetik manual. Jika data referensi tidak ada, data wilayah digunakan sebagai referensi. Lebih lengkapnya (dengan screenshot gambar), bisa dilihat bagian bawah di halaman [berikut](/cara-sinkronisasi-usulan-daerah-dengan-penilaian-pusat-di-dak-fisik).
+2. Adanya komponen di bawah Detail Rincian 
+3. Adanya Readiness Criteria di bawah Detail Rincian
