@@ -68,7 +68,7 @@ Akan terlihat program-program (misal sudah ditambahkan).
     max-width="400px"
     %}
 
-##### Mengubah Target Output Kegaiatan Satker
+##### Mengelola Target Output Kegiatan Satker
 
 {% include image.html
     img="https://user-images.githubusercontent.com/2253841/58245043-1862f300-7d7e-11e9-84b5-3318473a3439.png"
@@ -111,20 +111,45 @@ Kecuali informasi target dari output kegiatan. Pergi ke kegiatan untuk mengakses
     max-width="550px"
     %}
 
-##### Target Indikator Kinerja Kegiatan
+Selain Output Kegiatan Satker, berikut hal-hal yang harus ditentukan sendiri angkanya oleh Satker:
+
+* Indikator Output Program
+* Target Indikator Kinerja Kegiatan
+* Indikator Output Kegiatan
+* Sub-Output
+* Target dan Alokasi Lokasi
+
+##### Mengelola Indikator Output Program
+
+{% include image.html
+    img="https://user-images.githubusercontent.com/2253841/58315940-b1584380-7e3c-11e9-892a-c42f24a7aedb.png"
+    max-width="550px"
+%}
+
+##### Mengelola Target Indikator Kinerja Kegiatan
 
 {% include image.html
     img="https://user-images.githubusercontent.com/2253841/58309761-47856d00-7e2f-11e9-9f81-82faab3b4db6.png"
+    max-width="650px"
+    %}
+
+##### Mengelola Indikator Output Kegiatan
+
+{% include image.html
+    img="https://user-images.githubusercontent.com/2253841/58316886-d3eb5c00-7e3e-11e9-91ba-7858a3069105.png"
     max-width="550px"
     %}
 
+##### Mengelola Sub-Output
 
-Sebagaimana Renja K/L:
+{% include image.html
+    img="https://user-images.githubusercontent.com/2253841/58317024-2af13100-7e3f-11e9-922b-376ba678b9f8.png"
+    max-width="550px"
+    %}
 
-* di Indikator Output Kegaiatan & Lokasi, terdapat data Target tahun-tahun ke depan.
-* Di Lokasi, terdapat data Alokasi dana Satker tersebut.
+##### Mengelola Target & Alokasi Lokasi
 
-
-
-
-##### 
+{% include image.html
+    img="https://user-images.githubusercontent.com/2253841/58317772-b3bc9c80-7e40-11e9-94a0-0b94476c4a99.png"
+    max-width="550px"
+    %}
