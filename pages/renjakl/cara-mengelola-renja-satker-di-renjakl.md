@@ -22,7 +22,7 @@ Berikut contoh satker dari K/L Arsip Nasional Republik Indonesia.
     max-width="500px"
     %}
 
-#### Kenapa Satker Membutuhkan Krisna
+#### Kenapa Satker Membutuhkan Krisna?
 
 Perencanaan tahunan K/L dibantu dengan aplikasi Renja K/L. Dengan menu Renja Satker, harapannya perencanaan ini didetailkan sampai level Satker, sehingga transparansi jadi meningkat.
 
@@ -130,7 +130,7 @@ Selain Output Kegiatan Satker, berikut hal-hal yang harus ditentukan sendiri ang
 
 {% include image.html
     img="https://user-images.githubusercontent.com/2253841/58309761-47856d00-7e2f-11e9-9f81-82faab3b4db6.png"
-    max-width="650px"
+    max-width="550px"
     %}
 
 ##### Mengelola Indikator Output Kegiatan
@@ -151,5 +151,5 @@ Selain Output Kegiatan Satker, berikut hal-hal yang harus ditentukan sendiri ang
 
 {% include image.html
     img="https://user-images.githubusercontent.com/2253841/58317772-b3bc9c80-7e40-11e9-94a0-0b94476c4a99.png"
-    max-width="550px"
+    max-width="650px"
     %}

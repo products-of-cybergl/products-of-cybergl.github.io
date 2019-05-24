@@ -13,5 +13,3 @@ permalink: cara-direktur-menyetujui-usulan-indikasi-output-rkp
     img="https://user-images.githubusercontent.com/2253841/58021701-d6477080-7b35-11e9-9071-861f41958f42.png"
     max-width="700px"
 %}
-
-Struktur 
