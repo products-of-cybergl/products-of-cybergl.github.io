@@ -27,4 +27,3 @@ Jika ingin mengelola state lebih dari satu wilayah sekaligus, gunakan fitur Bulk
     max-width="300px"
 %} 
 
-
