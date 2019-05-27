@@ -3,6 +3,10 @@
 
 @import "bootstrap/bootstrap";
 
+.container{
+  max-width: none !important;
+}
+
 .navbar{
      margin-bottom: 1.5rem;
 }
