@@ -10,7 +10,27 @@ Dari tulisan-tulisan sebelumnya, kita sudah memahami tiga hal berikut:
 1. ABPN
 1. K/L dan Pemda
 
-Artinya, kita sudah bisa masuk ke materi terkait perencanaan. Semua bermula dari pak Presiden.
+Artinya, kita sudah bisa masuk ke materi perencanaan negara.
+
+Sekarang coba bayangkan:
+
+1. K/L punya keinginan (baca: rencana)
+2. Pemda punya keinginan
+3. Pemasukan pemerintah tidak terprediksi pasti
+4. Hutang atau mencetak uang baru punya limitnya
+5. Presiden punya keinginan
+
+Bagaimana menyelaraskan semua pihak?
+
+Singkatnya,
+
+> Selain berkerja, mereka semua berembuk sepanjang tahun, untuk merumuskan anggaran satu tahun kedepan.
+
+Lengkapnya, semua bermula dari pak Presiden, dan berujung di dokumen Rancangan Pembangunan Jangka Panjang Nasional (RPJMN), lalu Rencana Kerja Pemerintah (RKP).
+
+Berikut alur dari sisi aktor-aktornya.
+
+---
 
 ##### Presiden
 
@@ -29,7 +49,7 @@ Lalu, bagaimana cara presiden memberikan arahan? Secara formal dan tertulis bisa
 * **Visi, Misi dan Agenda saat pemilihan presiden**<br/>
   Contoh: Nawa Cita Jokowi-JK 2014-2019. Berisi 9 agenda prioritas jika terpilih.
 * **Rancangan Pembangunan Jangka Menengah Nasional (RPJMN)**<br/>
-  Contoh: [RPJMN 2015-2019](/asset/dokumen/BUKU-I-RPJMN-2015-2019.pdf). Dibuat oleh Bappenas sebagai penjabaran dari Nawa Cita, dalam koridor dokumen Rancangan Pembangunan Jangka Panjang Nasional 2005-2025 (yang ditetapkan UU No. 17 Tahun 2007) dan UUD 1945.
+  Contoh: [RPJMN 2015-2019](/asset/dokumen/BUKU-I-RPJMN-2015-2019.pdf). Dibuat oleh Bappenas sebagai penjabaran dari Nawa Cita, dalam koridor dokumen RPJMN 2005-2025 (yang ditetapkan UU No. 17 Tahun 2007) dan UUD 1945.
 * **Rencana Kerja Pemerintah (RKP)**<br/>
   Contoh: [RKP 2019](/asset/dokumen/RKP-2019.pdf). Di dokumen tahunan tersebut tercantum 5 Program Nasional & 24 Program Prioritas turunannya. RKP 2019 juga dibuat oleh Bappenas, ditetapkan presiden (Peraturan Presiden No. 72 Tahun 2018), dan mengacu pada RPJMN 2015-2019. Terkait Dana Alokasi Khusus ke daerah juga dijabarkan di RKP. 
 
@@ -74,8 +94,21 @@ Dari mana Bappenas bisa mendapatkan informasi sedetail itu? Tentu saja dari K/L.
 
 Begitu juga dengan pemda. Bappenas juga punya direktorat mitra pemda (Direktorat Otonomi Daerah salah satunya).
 
-Berikut hubungannya kesemuanya.
+##### Kementerian Keuangan
+
+Ini adalah kementerian yang mengurus pertanyaan penting, "ada uangnya atau tidak?"
+
+Diberbagai fase, Kemenkeu ikut terlibat dari sisi keuangan & akuntansi (pagu, pengkodean rencana kegiatan, rekaman performa penyerapan anggaran, dll).
+
+##### Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi (Kemen PAN RB)
+
+Kementerian ini didirikan untuk menilai performa kerja K/L & Pemda dalam melayani masyarakat. Posisinya strategis untuk menentukan perencanaan & penganggaran yang paling efektif-efisien buat NKRI.
+
+---
+
+Berikut hubungan RPJMN & RKP dengan dokumen-dokumen penting lainnya:
 
 {% include image.html
             img="https://user-images.githubusercontent.com/2253841/57962401-6d4ad780-7940-11e9-8ad3-cec03659f372.png"
+            caption="Renstra K/L adalah Rencana Strategis K/L, versi RPJMN dari K/L. Renja K/L adalah Rencana Kerja K/L, versi RKP dari K/L. RKA K/L adalah Rencana Kerja & Anggaran K/L."
 %}
