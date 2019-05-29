@@ -109,7 +109,7 @@ Setelah data dapat dilihat oleh user Bappeda RK, maka dapat dilakukan checklist 
 {% include image.html
     img="https://user-images.githubusercontent.com/2253841/58512872-5c178b80-81c8-11e9-9fc9-edb60d18e0bc.png"
     caption="Gambar 6.2. Form konfirmasi rekomendasi daerah"
-    max-width="600px"
+    max-width="500px"
 %}
 
 Jika “Nilai Usulan RK data ini” melebihi nilai dari “Nilai yang dapat diterima (penugasan), maka data tidak dapat disimpan. Seharusnya daerah menurunkan nilai usulan RK, agar sesuai atau lebih kecil dari “Nilai yang dapat diterima (penugasan)”.
@@ -257,7 +257,7 @@ Klik tombol print untuk menyimpan table dalam format pdf.
 {% include image.html
     img="https://user-images.githubusercontent.com/2253841/58526303-b7fa0880-81f8-11e9-91a2-abbc929bb249.png"
     caption="Gambar 14.3. Tampilan parameter data yang ingin ditampilkan pada table"
-    max-width="800px"
+    max-width="500px"
 %}
 
 {% include image.html
