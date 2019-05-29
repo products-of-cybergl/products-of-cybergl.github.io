@@ -8,9 +8,15 @@ Pada manual ini dijelaskan mengenai proses dan potongan gambar setiap aktivitas 
 
 #### 1. DJPK Kemenkeu dapat melakukan set Max Pagu (oleh user admin portal)
 
-Dalam rangka melihat hasil penilaian yang ada pada fase sebelumnya yaitu fase Sinkronisasi. Fase dimana daerah dan pusat melakukan kesepakatan data usulan. Hasil sinkronisasi tersebut dibawa ke Multilateral Meeting dan rapat ke DPR  RI (Komisi & Banggar) berdasarkan nilai pagu alokasi yang sudah ditetapkan per daerah. Pada fase ini Krisna DAK ada dalam fase Pasca Sinkron.
+Dalam rangka penyusunan usulan DAK, dibutuhkan dokumen resmi yang akan digunakan oleh daerah sebagai dokumen pertanggung jawaban realisasi anggaran. Sesuai dengan undang-undang PMK, dokumen tersebut bernama dokumen Rencana Kegiatan, yaitu dokumen yang digunakan sebagai bahan penilaian dan kajian pihak-pihak terkait realisasi anggaran.
 
-Setelah sudah ada kesepakatan dengan DPR, maka Krisna DAK memasuki fase Pra Usulan RK. Yaitu fase dimana DJPK Kemenkeu melakukan pengaturan nilai batas atas pagu per daerah per bidang per jenis DAK. Disebut juga dengan istilah Max Pagu.
+Untuk menghasilkan dokumen RK dalam tahapan penyusunan di Krisna DAK ini masih membutuhkan beberapa aksi atau aktivitas yang harus dilakukan oleh pemerintah pusat dan daerah.
+
+Tahapan kegiatan lebih lanjut setelah fase Sinkronisasi usulan daerah dan pusat, adalah K/L melakukan kajian data usulan bersama Bappenda dan Kementerian Keuangan di Multilateral Meeting. Hasil kesepakatan Multilateral Meeting akan dibawa ke rapat bersama DPR  RI (Komisi & Banggar). Sekaligus dilakukannya peneteapan Pagu Alokasi per daerah per bidang dan per jenis DAK. Fase ini di dalam Krisna DAK termasuk pada fase Pasca Sinkron.
+
+Kebutuhan bagi daerah adalah mereka dapat melihat hasil penilaian pusat yang ada pada fase sebelumnya yaitu fase Sinkronisasi (fase dimana daerah dan pusat melakukan kesepakatan data usulan). Dan juga dapat melihat Pagu Alokasi yang telah ditentukan untuk setiap daerah per Bidang, per jenis DAK.
+
+Berikut merupakan cara DJPK Kemenkeu dalam melakukan pengaturan nilai batas atas Pagu setiap daerah. Disebut juga dengan istilah Max Pagu.
 
 {% include image.html
     img="https://user-images.githubusercontent.com/2253841/58482491-ad078f80-8188-11e9-8a3b-78871c0a664b.png"
@@ -170,7 +176,7 @@ Hasil konfirmasi daerah dapat dilihat oleh pusat, sehingga pusat / user Approver
 
 #### 11. Pusat dapat melakukan aksi approval RK (oleh ser Approver RK)
 
-Hanya usulan yang checklist hijau konfirmasi daerah yang dapat dilakukan aksi approval oleh user Approver RK.
+Hanya usulan yang checklist biru konfirmasi daerah yang dapat dilakukan aksi approval oleh user Approver RK.
 
 {% include image.html
     img="https://user-images.githubusercontent.com/2253841/58520318-6c883000-81e1-11e9-8dba-44149aebc86e.png"
@@ -322,3 +328,8 @@ Hanya user role Kepala Bappeda dan admin portal yang dapat melakukan upload doku
     max-width="800px"
 %}
 
+{% include image.html
+    img="https://user-images.githubusercontent.com/2253841/58530919-b5081380-820a-11e9-80db-224729d31d48.png"
+    caption="Gambar 17.2. Daftar dokumen yang dimasukkan ke sistem Krisna DAK"
+    max-width="800px"
+%}
