@@ -4,22 +4,6 @@ aplikasi: selaras
 permalink: krisna/apa-itu-selaras
 ---
 
-#### Acara Rakortek
+KRISNA Selaras digunakan dalam proses penyusunan pengusulan program prioritas daerah, proyek daerah dan isu Strategis daerah yang akan dibawa dalam acara Musyawarah Rencana Pembangunan Nasional (Musrenbangnas). Proses pengusulan dilakukan oleh daerah dan provinsi yang kemudian akan dilakukan verifikasi oleh provinsi, Direktorat Pembangunan Daerah (Bangda) Kementerian Dalam negeri dan selanjutnya mendapatkan persetujuan oleh Kementerian/ Lembaga. 
 
-Membahas usulan
-
-#### Acara Musrenbangnas
-
-Kegiatan penyelarasan RKP Pusat dan RKP Daerah
-
-Membahas usulan lanjut dari rakortek dan membahas usulan baru.
-
-#### Proses Musrenbangnas dari awal.
-
-Selaras melihat program yang ada di K/L. (Program > Kegiatan > Output > Sub-output)
-
-PJ Musrenbangnas () melakukan tagging
-
-Musrenbang melihat program yang ada lewat drilldown (PN > PP > KP > PPN > Sub-output)
-
-Pertama di menu pra-usulan. 
+Data output dalam KRISNA Selaras adalah Target Sasaran Indikator Makro, Program/Kegiatan dan Proyek K/L yang mendukung Prioritas Nasional, Proyek K/L yang mendukung Prioritas Daerah dan usulan daerah terhadap Program/Kegiatan atau Proyek K/L yang dibutuhkan daerah atau sesuai dengan Prioritas Daerah.
