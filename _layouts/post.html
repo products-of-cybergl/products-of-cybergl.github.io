@@ -14,7 +14,7 @@ layout: default
 
 {% if app.menus %}
 
-	<div class="col-md-3 side-nav" style="font-size: 1.15em;">
+	<div class="col-md-4 side-nav">
 		<ul class="list-group">
 		{% for m in app.menus %}
 			<a href="
@@ -40,7 +40,7 @@ layout: default
 		{% endfor %}
 		</ul>
 	</div>
-	<div class="col-md-9" style="font-size: 1.4em;">
+	<div class="col-md-8">
         <h3>{{app.menus[page.permalink]}}</h3>
         {% unless page.is-home %}
             <hr>
