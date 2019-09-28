@@ -30,6 +30,9 @@ Dengan begitu, kode bisa jadi lebih rapih & modular.
 
 Berikut komponen-komponen Vue Gov2 yang siap pakai.
 
-#### 1. [PhaseBar](https://github.com/wibisastro/gov2phasebar)
+#### 1. [gov2phasebar](https://github.com/wibisastro/gov2phasebar)
 
-
+{% include image.html
+    img="gov2/komponen-phasebar.jpg"
+    caption="Contoh penggunaan komponen gov2phasebar di Sidalih. Banyak proses bisnis pemerintah yang menggunakan fase-fase."
+%}
