@@ -1,6 +1,6 @@
 ---
 layout: post
-aplikasi: dasar
+aplikasi: dasar-krisna
 permalink: krisna/apa-ujung-akhirnya
 ---
 

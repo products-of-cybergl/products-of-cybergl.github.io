@@ -1,6 +1,6 @@
 ---
 layout: post
-aplikasi: dasar
+aplikasi: dasar-krisna
 permalink: krisna/apa-itu-kl-dan-pemda
 ---
 
@@ -110,4 +110,4 @@ Ada banyak jenis dana bantuan pemerintah pusat. Berikut macam-macamnya, sebagaim
 
 &mdash;
 
-Setelah memahami penerima 2/3 dana APBN (K/L dan pemda), sekarang mari kita pahami [Bagaimana Perencanaan Negara Dimulai](/krisna/bagaimana-perencaan-negara-dimulai).
+Setelah memahami penerima 2/3 dana APBN (K/L dan pemda), sekarang mari kita pahami [Bagaimana Perencanaan Negara Dimulai](/krisna/apa-itu-rpjmn-dan-rkp).

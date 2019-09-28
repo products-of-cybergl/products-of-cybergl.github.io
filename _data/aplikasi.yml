@@ -1,4 +1,4 @@
-dasar:
+dasar-krisna:
   title: "Wiki Krisna"
   subtitle: "Krisna: Kolaborasi Perencanaan dan Informasi Kinerja Anggaran" 
   menus:
@@ -58,3 +58,11 @@ dak-fisik:
     krisna/cara-sinkronisasi-usulan-daerah-dengan-penilaian-pusat-di-dak-fisik: "4. Cara Sinkronisasi Usulan Daerah Dengan Penilaian Pusat (K/L, Bappenas & Kemenkeu)"
     krisna/cara-menyaring-dan-menyesuaikan-usulan-setelah-turunnya-pagu-alokasi-di-dak-fisik: "5. Cara Menyaring & Menyesuaikan Usulan Setelah Turunnya Pagu Alokasi"
     krisna/cara-menyusun-rk-di-dak-fisik: "6. Cara Menyusun RK di DAK Fisik"
+
+
+dasar-gov2:
+  title: "Gov2"
+  subtitle: "Sebuah Framework PHP Spesialis Kepemerintahan"
+  menus:
+      gov2/pengenalan: "Apa Itu Gov2?"
+      gov2/komponen-vue: "Komponen-komponen VueJS Siap Pakai"

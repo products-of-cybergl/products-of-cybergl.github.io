@@ -1,17 +1,117 @@
 ---
 ---
 
-@import "bootstrap/bootstrap";
+$theme-color-primary: #47b0df;
+$theme-color-secondary: #71c853;
 
+$theme-text-color-primary: #212B35;
+$theme-text-color-secondary: lighten($theme-text-color-primary, 25%);
+$theme-text-color-light: lighten($theme-text-color-primary, 40%);
+
+@import "bootstrap/bootstrap";
 
 /*
  * Navbar
  */
-nav.navbar {
-    background-color: #c7d7f3 !important;
-    margin-bottom: 2em;
-    border-bottom: .05rem solid #bbbbbb;
+.site-logo {
+  .logo-text {
+    position:relative;
+    top: 3px;
+    .alt {
+      font-size: 1rem;
+      background: lighten($theme-color-primary, 35%);
+      color: $theme-color-primary;
+      padding: 2px 4px;
+      position: relative;
+      top: -6px;
+    }
+  }
+  .navbar-brand {
+    font-size: 1.8rem;
+    font-weight: 600;
+    padding-top: 0;
+      font-family: "Nunito", sans-serif;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      color: #47b0df;
+      &:hover{
+        color: #357e9e; 
+      }
+  }
+
 }
+
+.navbar {
+  font-size: 1rem;
+  padding: 1rem 0;
+  background-color: white;
+  border-bottom: 2px solid #cecece;
+  
+  .navbar-toggler {
+    border: none;
+      padding: 0;
+      font-size: inherit;
+      position: relative;
+      top: -1px;
+      cursor: pointer;
+  }
+
+  .navbar-toggler-icon{
+      &:hover {
+        box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+      }
+  }
+
+  .navbar-nav .nav-link { 
+    color: rgba(0, 0, 0, 0.9);
+    font-weight: 500;
+  }
+
+  .dropdown-menu {
+    @include border-radius(2px);
+    &:before {
+      content: "";
+      display: block;
+      width: 0;
+      height: 0;
+      border-left: 8px solid transparent;
+      border-right: 8px solid transparent;
+      border-bottom: 8px solid #fff;
+      position: absolute;
+      right: 32px;
+      top: -8px;
+    }
+    .nav-link{
+      margin-left: 10px;
+    }
+  }
+
+  .dropdown-item {
+    font-size: 0.875rem;
+    padding: 0.5rem 1.25rem;
+    
+    &:hover {
+      color: $theme-text-color-primary;
+    }
+    
+    &:active {
+      color: #fff;
+    }
+    
+  }
+}
+
+@media (max-width: 991px){
+  .navbar-expand-lg > .container, .navbar-expand-lg > .container-fluid {
+      padding-right: 15px;
+      padding-left: 15px;
+  }
+}
+
+
+
+
+
 
 /*
  * Footer
