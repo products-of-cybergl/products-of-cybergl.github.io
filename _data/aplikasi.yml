@@ -66,3 +66,8 @@ dasar-gov2:
   menus:
       gov2/pengenalan: "Apa Itu Gov2?"
       gov2/komponen-vue: "Komponen-komponen VueJS Siap Pakai"
+      gov2/komponen/gov2phasebar: "→ gov2phasebar"
+      gov2/komponen/gov2search: "→ gov2search"
+      gov2/komponen/gov2pagination: "→ gov2pagination"
+      gov2/komponen/gov2notification: "→ gov2notification"
+      gov2/komponen/gov2button: "→ gov2button"
